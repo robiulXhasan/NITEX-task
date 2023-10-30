@@ -11,9 +11,9 @@ const Banner = () => {
     >
       <div className="hero-overlay bg-opacity-70"></div>
       <div className="hero-content text-center text-white">
-        <div className="w-3/4 space-y-8">
+        <div className="md:w-3/4 space-y-8">
             <p className="text-lg font-bold text-yellow-500 ">Morning Glory School & Collage</p>
-          <h1 className="mb-5 text-5xl font-bold ">Providing Best Education For
+          <h1 className="mb-5 text-2xl md:text-5xl font-bold ">Providing Best Education For
           </h1>
           <TypeAnimation
               sequence={[
@@ -24,10 +24,10 @@ const Banner = () => {
               ]}
               speed={50}
               repeat={Infinity}
-              className="font-bold text-transparent mt-5   text-5xl  bg-clip-text bg-gradient-to-r from-[#af0fee] to-[#ee92e9]"
+              className="font-bold text-transparent mt-5  text-2xl md:text-5xl  bg-clip-text bg-gradient-to-r from-[#af0fee] to-[#ee92e9]"
             />
        
-          <p className="mb-5">
+          <p className="mb-5 text-xs md:text-[12px]">
             Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda
             excepturi exercitationem quasi. In deleniti eaque aut repudiandae et
             a id nisi.

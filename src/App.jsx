@@ -5,6 +5,8 @@ import Banner from './components/Banner'
 import About from './components/About'
 import Academic from './components/Academic'
 import Facilities from './components/Facilities'
+import Affiliations from './components/Affiliations'
+import ContactUs from './components/ContactUs'
 
 function App() {
 
@@ -16,6 +18,8 @@ function App() {
       <About/>
       <Academic/>
       <Facilities/>
+      <Affiliations/>
+      <ContactUs/>
       <Footer/>
     </div>
   )

@@ -34,7 +34,13 @@ const Footer = () => {
           <div className=" flex items-center text-[16px] "><AiOutlinePhone className='text-2xl '/>: 01882345960 </div>
           <div className="link link-hover flex items-center text-2xl gap-4 "> <AiOutlineFacebook/><AiOutlineYoutube/><AiOutlineLinkedin/> <AiOutlineInstagram/> </div>
         </nav>
+    
       </footer>
+      <footer className="footer footer-center p-4 bg-purple-100 border-2 border-t-white text-base-content">
+  <aside>
+    <p>Copyright &copy; 2023 - All right reserved by MGSC</p>
+  </aside>
+</footer>
     </div>
   );
 };
