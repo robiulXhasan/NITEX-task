@@ -50,7 +50,7 @@ const Navbar = () => {
         </>
   );
   return (
-    <div className="navbar bg-base-200 px-[8%]">
+    <div className="navbar border-b border-yellow-500 px-[8%]">
       <div className="navbar-start">
         <div className="dropdown">
           <label tabIndex={0} className="btn btn-ghost lg:hidden">
@@ -82,7 +82,7 @@ const Navbar = () => {
         <ul className="menu menu-horizontal px-1 text-[16px] font-medium">{navItems}</ul>
       </div>
       <div className="navbar-end">
-        <a className="btn btn-outline">Apply Online</a>
+        <a className="btn btn-outline border-yellow-500 text-yellow-500">Apply Online</a>
       </div>
     </div>
   );
