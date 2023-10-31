@@ -10,18 +10,18 @@ import cafeteria from '../assets/images/cafeteria.png'
 import eKids from '../assets/images/e-kids.png'
 const Facilities = () => {
     return (
-        <div className="w-11/12 md:w-10/12 lg:container  mx-auto my-16 md:my-32 ">
+        <div id='facilities' className="w-11/12 md:w-10/12 lg:container  mx-auto my-16 md:my-32 ">
             <div className='flex justify-between items-center'>
                 <h3 className='text-2xl md:text-4xl font-bold'>Our Facilities</h3>
                 <button className='btn btn-outline border-yellow-500 text-yellow-500'>Learn More</button>
             </div>
-      <div className="grid grid-cols-1 md:grid-cols-4  md:gap-8  mt-6">
-        <div className="col-span-2 grid grid-cols-2 gap-4 md:gap-8  ">
+      <div className="grid grid-cols-1 lg:grid-cols-4  md:gap-8  mt-6">
+        <div className="col-span-2 grid grid-cols-2 gap-4 lg:gap-8  ">
           <div className='p-8 bg-blue-600 text-white  rounded-lg mb-4 md:mb-0'>
           <h2 className="text-2xl md:text-4xl font-bold mb-5">Our <span className='text-yellow-500'>Focus</span> Is To Provide Best <span className='text-yellow-500'>Education</span> For All Students</h2>
           
           </div>
-          <div className='grid'>
+          <div className='grid gap-2 lg:gap-0'>
             <div className='flex   gap-2 md:gap-5 items-center'>
                 <img className=' w-8 md:w-12 bg-purple-100 p-2 rounded-lg' src={lab} alt="" />
                 <h3 className=' text-xl md:text-2xl '>Laboratory</h3>

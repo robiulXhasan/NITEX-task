@@ -3,7 +3,7 @@ import { AiOutlineFacebook, AiOutlineInstagram, AiOutlineLinkedin, AiOutlineMail
 const Footer = () => {
   return (
     <div className=" ">
-      <footer className="footer  bg-purple-100 text-base-content py-10 px-[8%] text-[16px]">
+      <footer className="footer  bg-purple-50 text-base-content py-10 px-[8%] text-[16px]">
         <aside>
          
          
@@ -36,7 +36,7 @@ const Footer = () => {
         </nav>
     
       </footer>
-      <footer className="footer footer-center p-4 bg-purple-100 border-2 border-t-white text-base-content">
+      <footer className="footer footer-center p-4 bg-purple-50 border-2 border-t-white text-base-content">
   <aside>
     <p>Copyright &copy; 2023 - All right reserved by MGSC</p>
   </aside>

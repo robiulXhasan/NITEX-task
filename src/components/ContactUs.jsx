@@ -1,7 +1,7 @@
 
 const ContactUs = () => {
     return (
-        <div className="w-11/12 md:w-10/12 mx-auto my-20 bg-purple-100 rounded-xl p-10 ">
+        <div id="contact" className="w-11/12 md:w-10/12 mx-auto my-20 bg-purple-50 rounded-xl p-10 ">
         <h1 className="text-2xl md:text-4xl font-bold mb-10">Contact Us</h1>
         
         <form action="">

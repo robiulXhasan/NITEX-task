@@ -6,9 +6,9 @@ import abc4 from "../assets/images/abc-4.png";
 
 const Academic = () => {
   return (
-    <div className="w-11/12 md:w-10/12 lg:container  mx-auto my-10 md:my-20 ">
-      <div className="grid grid-cols-1 md:grid-cols-4  md:gap-8  mt-10">
-        <div className="col bg-yellow-500 p-5  rounded-lg mb-4 md:mb-0">
+    <div id="academics" className="w-11/12 md:w-10/12 lg:container  mx-auto my-10 md:my-20 ">
+      <div className="grid grid-cols-1  lg:grid-cols-4   lg:gap-8  mt-10">
+        <div className="col bg-yellow-500 p-5  rounded-lg mb-4 lg:mb-0">
           <h2 className="text-4xl text-center font-bold mb-5">Academic Sections</h2>
           <p>
             Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam

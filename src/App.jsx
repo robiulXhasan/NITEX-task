@@ -7,6 +7,8 @@ import Academic from './components/Academic'
 import Facilities from './components/Facilities'
 import Affiliations from './components/Affiliations'
 import ContactUs from './components/ContactUs'
+import Highlights from './components/Highlights'
+import Feedback from './components/Feedback'
 
 function App() {
 
@@ -18,7 +20,9 @@ function App() {
       <About/>
       <Academic/>
       <Facilities/>
+      <Highlights/>
       <Affiliations/>
+      <Feedback/>
       <ContactUs/>
       <Footer/>
     </div>

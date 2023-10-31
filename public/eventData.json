@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "image": "https://img.freepik.com/free-photo/kids-fashion-concept-group-teen-boys-girls-sitting-green-grass-park_155003-32286.jpg?w=900&t=st=1698726481~exp=1698727081~hmac=bb004533757ce87341f7ca3dab8c5619c102235d067ed2d393e1e3348764b36d",
+        "aboutEvent": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+
+    },
+    {
+        "id": "2",
+        "image": "https://img.freepik.com/premium-photo/children-school-uniforms-walk-street-children-rejoice-have-fun-end-school-year-holidays_494741-52351.jpg?w=900",
+        "aboutEvent": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+
+    },
+    {
+        "id": "3",
+        "image": "https://img.freepik.com/premium-photo/group-schoolchildren-uniform-joyfully-cheerfully-run-out-school_255546-388.jpg?w=900",
+        "aboutEvent": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+
+    },
+    {
+        "id": "4",
+        "image": "https://img.freepik.com/free-photo/group-happy-children-show-different-sport_155003-9097.jpg?w=900&t=st=1698726730~exp=1698727330~hmac=53436063ddf25f6c0147e87ab805edbb086c35282cab68cd5e228cc7ae65bcb4",
+        "aboutEvent": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+
+    },
+    {
+        "id": "5",
+        "image": "https://img.freepik.com/premium-photo/children-school-uniforms-walk-street-children-rejoice-have-fun-end-school-year-holidays_494741-52351.jpg?w=900",
+        "aboutEvent": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+
+    },
+    {
+        "id": "6",
+        "image": "https://img.freepik.com/free-photo/group-happy-children-show-different-sport_155003-9097.jpg?w=900&t=st=1698726730~exp=1698727330~hmac=53436063ddf25f6c0147e87ab805edbb086c35282cab68cd5e228cc7ae65bcb4",
+        "aboutEvent": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+
+    }
+]

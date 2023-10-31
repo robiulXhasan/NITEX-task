@@ -5,7 +5,7 @@ import {FaUserGraduate} from 'react-icons/fa'
 
 const About = () => {
   return (
-    <div className="w-11/12 md:w-10/12 lg:container mx-auto my-10 md:my-32 ">
+    <div id="about" className="w-11/12 md:w-10/12 lg:container mx-auto my-10 md:my-32 ">
       <div className=" flex  flex-col-reverse md:flex-row  justify-between items-center gap-8 md:gap-20">
         <div className="w-full flex flex-col-reverse md:flex-col">
           <img src={about1} className="rounded-3xl w-full shadow-xl mb-5" alt="" />

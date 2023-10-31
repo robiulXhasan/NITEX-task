@@ -11,7 +11,7 @@ const Banner = () => {
     >
       <div className="hero-overlay bg-opacity-70"></div>
       <div className="hero-content text-center text-white">
-        <div className="md:w-3/4 space-y-8">
+        <div className="md:w-3/4 space-y-8 mt-20">
             <p className="text-lg font-bold text-yellow-500 ">Morning Glory School & Collage</p>
           <h1 className="mb-5 text-2xl md:text-5xl font-bold ">Providing Best Education For
           </h1>
