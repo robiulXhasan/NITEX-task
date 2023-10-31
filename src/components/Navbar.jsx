@@ -76,10 +76,10 @@ const Navbar = () => {
             {navItems}
           </ul>
         </div>
-        <a className="normal-case text-2xl font-bold">
+        <Link to="banner" className="normal-case text-2xl font-bold cursor-pointer">
           M<span className="text-yellow-500">G</span>S
           <span className="text-yellow-500">C</span>
-        </a>
+        </Link>
       </div>
       <div className="navbar-center hidden lg:flex">
         <ul className="menu menu-horizontal px-1 text-[16px] font-medium">

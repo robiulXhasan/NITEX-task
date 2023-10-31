@@ -2,7 +2,7 @@ import { TypeAnimation } from "react-type-animation";
 import banner from "../assets/images/banner.jpg";
 const Banner = () => {
   return (
-    <div
+    <div id="banner"
       className="hero min-h-screen"
       style={{
         backgroundImage: `url(${banner})`,
